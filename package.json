@@ -1,0 +1,17 @@
+{
+  "name": "usel",
+  "version": "2.0.0",
+  "description": "A lightweight selector for DOM manipulation, quicker and lightweighter than JQuery",
+  "main": "USel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "DOM",
+    "Selector",
+    "quick",
+    "Selector"
+  ],
+  "author": "Luigi Senzamici (luigisenzamici@gmail.com)",
+  "license": "MIT"
+}
