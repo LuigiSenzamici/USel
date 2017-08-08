@@ -1,6 +1,6 @@
 {
   "name": "usel",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "A lightweight selector for DOM manipulation, quicker and lightweighter than JQuery",
   "main": "USel.js",
   "scripts": {
